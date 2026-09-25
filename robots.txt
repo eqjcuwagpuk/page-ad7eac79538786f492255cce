@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.myaba.cn/sitemap.xml
